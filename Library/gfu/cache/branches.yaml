@@ -13,10 +13,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-08-03T20:06:06.401-04:00
-  initializedAtString: 2020-08-03T12:21:14.075-04:00
-  localBranches: []
-  remoteBranches: []
+  lastUpdatedAtString: 2020-08-04T03:25:26.891-04:00
+  initializedAtString: 2020-08-03T22:19:39.279-04:00
+  localBranches:
+  - name: Initial-Update-0.1
+    tracking: 
+  - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/DaveHJT/Unity2DScrollerPlatformerPracticeProject.git
@@ -26,12 +32,33 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - Initial-Update-0.1
+    - master
+    values:
+    - name: Initial-Update-0.1
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/DaveHJT/Unity2DScrollerPlatformerPracticeProject.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/DaveHJT/Unity2DScrollerPlatformerPracticeProject.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin

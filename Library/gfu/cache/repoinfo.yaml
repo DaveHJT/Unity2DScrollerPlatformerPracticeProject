@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-08-03T20:06:06.313-04:00
-  initializedAtString: 2020-08-03T12:20:21.816-04:00
+  lastUpdatedAtString: 2020-08-04T09:13:47.493-04:00
+  initializedAtString: 2020-08-04T09:13:47.493-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/DaveHJT/Unity2DScrollerPlatformerPracticeProject.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/DaveHJT/Unity2DScrollerPlatformerPracticeProject.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/DaveHJT/Unity2DScrollerPlatformerPracticeProject.git
